@@ -15,7 +15,7 @@ Ketikkan "npm run dev" pada command prompt, maka localhost:3000 akan terbentuk.
 
 d) Bonus yang dikerjakan dengan statusnya antara selesai, parsial, maupun tidak mengerjakan
 
-Mengerjakan responsive (selesai)
+Mengerjakan responsive (selesai) dan deployment menggunakan Vercel (selesai)
 
 
 e) Kesulitan yang dihadapi
