@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d1c4a393-3312-47f5-b2b6-b2d096dc1a83)a) Penjelasan singkat mengenai projek yang dibuat
+a) Penjelasan singkat mengenai projek yang dibuat
 
 Proyek ini adalah proyek pertama saya menggunakan Tailwind CSS. Di dalamnya, berisi profil singkat, foto, minat dan bakat saya, proyek dan pencapaian saya sebelumnya, dan kontak diri.
 
