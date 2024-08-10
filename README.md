@@ -14,7 +14,7 @@ c) Cara menjalankan program
 
 Ketikkan "npm run dev" pada command prompt, maka localhost:3000 akan terbentuk.
 
-Link Vercel : https://196231431stproject-gdrljzw7t-shwibzkas-projects.vercel.app/
+Link Vercel : https://1stproject-lilac.vercel.app/
 
 
 
